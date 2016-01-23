@@ -1,9 +1,774 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1312f9b6-3835-476c-8f6d-2df50db27659" name="Default" comment="" />
+    <list default="true" id="1312f9b6-3835-476c-8f6d-2df50db27659" name="Default" comment="добавил свой шблон и добавил пейдж">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/shortcodes/shortcodes/column/thumbnails/1_1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/shortcodes/shortcodes/column/thumbnails/1_2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/shortcodes/shortcodes/column/thumbnails/1_3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/shortcodes/shortcodes/column/thumbnails/1_4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/shortcodes/shortcodes/column/thumbnails/1_5.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/shortcodes/shortcodes/column/thumbnails/1_6.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/shortcodes/shortcodes/column/thumbnails/2_3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/shortcodes/shortcodes/column/thumbnails/3_4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/static/libs/font-awesome/fonts/FontAwesome.otf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/static/libs/unycon/fonts/Unycon.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/static/libs/unycon/fonts/Unycon.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/static/libs/unycon/fonts/Unycon.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/core/components/extensions/manager/static/img/thumbnails/analytics.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/media/extensions/slider/extensions/nivo-slider/static/css/images/arrows.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/media/extensions/slider/extensions/nivo-slider/static/css/images/arrows2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/core/components/extensions/manager/static/img/thumbnails/backup.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/core/components/extensions/manager/static/img/thumbnails/backups.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/core/components/extensions/manager/static/img/thumbnails/breadcrumbs.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/media/extensions/slider/extensions/nivo-slider/static/css/images/bullets.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/media/extensions/slider/extensions/bx-slider/static/css/images/bx_loader.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/media/extensions/slider/extensions/bx-slider/static/css/images/controls.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/core/components/extensions/manager/static/img/disabled-bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/core/components/extensions/manager/static/img/thumbnails/events.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/core/components/extensions/manager/static/img/thumbnails/feedback.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/static/libs/font-awesome/fonts/fontawesome-webfont.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/static/libs/font-awesome/fonts/fontawesome-webfont.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/static/libs/font-awesome/fonts/fontawesome-webfont.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/core/components/extensions/manager/static/img/thumbnails/forms.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/builder/includes/option-types/builder/static/img/fullscreen/fullscreen-off.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/builder/includes/option-types/builder/static/img/fullscreen/fullscreen-on.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/includes/option-types/typography/static/images/google-fonts.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/core/components/extensions/manager/static/unyson-font-icon/fonts/icomoon.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/core/components/extensions/manager/static/unyson-font-icon/fonts/icomoon.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/core/components/extensions/manager/static/unyson-font-icon/fonts/icomoon.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/media/extensions/population-method/extensions/population-method-custom/includes/slides/static/images/icon-bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/forms/includes/option-types/form-builder/items/checkboxes/static/images/icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/forms/includes/option-types/form-builder/items/email/static/images/icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/forms/includes/option-types/form-builder/items/number/static/images/icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/forms/includes/option-types/form-builder/items/radio/static/images/icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/forms/includes/option-types/form-builder/items/recaptcha/static/images/icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/forms/includes/option-types/form-builder/items/select/static/images/icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/forms/includes/option-types/form-builder/items/text/static/images/icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/forms/includes/option-types/form-builder/items/textarea/static/images/icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/forms/includes/option-types/form-builder/items/website/static/images/icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/media/extensions/population-method/extensions/population-method-custom/includes/slides/static/images/icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/static/libs/unycon/iconmoon-app-selection.json.zip" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/core/components/extensions/manager/static/img/thumbnails/learning.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/media/extensions/slider/extensions/nivo-slider/static/css/images/loading.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/static/img/logo-100.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/core/components/extensions/manager/static/img/thumbnails/mailer.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/core/components/extensions/manager/static/img/thumbnails/mega-menu.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/shortcodes/shortcodes/accordion/static/img/minus-accordion.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/static/img/no-image.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/media/extensions/population-method/extensions/population-method-custom/includes/slides/static/images/no_img.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/media/extensions/population-method/extensions/population-method-custom/includes/slides/static/images/no_video.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/media/extensions/slider/extensions/owl-carousel/static/css/owl.video.play.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/core/components/extensions/manager/static/img/thumbnails/page-builder.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/forms/extensions/contact-forms/shortcodes/contact-form/static/img/page_builder.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/media/extensions/slider/shortcodes/slider/static/img/page_builder.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/shortcodes/shortcodes/accordion/static/img/page_builder.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/shortcodes/shortcodes/button/static/img/page_builder.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/shortcodes/shortcodes/calendar/static/img/page_builder.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/shortcodes/shortcodes/call-to-action/static/img/page_builder.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/shortcodes/shortcodes/divider/static/img/page_builder.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/shortcodes/shortcodes/icon-box/static/img/page_builder.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/shortcodes/shortcodes/icon/static/img/page_builder.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/shortcodes/shortcodes/map/static/img/page_builder.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/shortcodes/shortcodes/media-image/static/img/page_builder.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/shortcodes/shortcodes/media-video/static/img/page_builder.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/shortcodes/shortcodes/notification/static/img/page_builder.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/shortcodes/shortcodes/special-heading/static/img/page_builder.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/shortcodes/shortcodes/table/static/img/page_builder.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/shortcodes/shortcodes/tabs/static/img/page_builder.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/shortcodes/shortcodes/team-member/static/img/page_builder.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/shortcodes/shortcodes/testimonials/static/img/page_builder.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/shortcodes/shortcodes/text-block/static/img/page_builder.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/shortcodes/shortcodes/widget-area/static/img/page_builder.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/shortcodes/shortcodes/accordion/static/img/plus-accordion.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/core/components/extensions/manager/static/img/thumbnails/portfolio.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/media/extensions/slider/extensions/bx-slider/static/images/preview.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/media/extensions/slider/extensions/nivo-slider/static/images/preview.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/media/extensions/slider/extensions/owl-carousel/static/images/preview.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/builder/includes/option-types/builder/static/img/history/redo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/builder/includes/option-types/builder/static/img/history/redo_disabled.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/shortcodes/shortcodes/column/includes/template-component/save-icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/shortcodes/shortcodes/section/includes/template-component/save-icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/core/components/extensions/manager/static/img/thumbnails/seo.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/core/components/extensions/manager/static/img/thumbnails/sidebars.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/core/components/extensions/manager/static/img/thumbnails/sliders.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/core/components/extensions/manager/static/img/thumbnails/social.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/static/img/sort-vertically.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/core/components/extensions/manager/static/img/thumbnails/styling.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/builder/includes/option-types/builder/includes/templates/static/img/template.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/gordondalos/tgm/plugins/tgm-example-plugin.zip" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/media/extensions/slider/extensions/bx-slider/static/images/thumb.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/media/extensions/slider/extensions/nivo-slider/static/images/thumb.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/media/extensions/slider/extensions/owl-carousel/static/images/thumb.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/core/components/extensions/manager/static/img/thumbnail-bg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/shortcodes/shortcodes/calendar/static/img/tick.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/core/components/extensions/manager/static/img/thumbnails/translation.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/includes/option-types/rgba-color-picker/static/images/transparency-grid.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/builder/includes/option-types/builder/static/img/history/undo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/builder/includes/option-types/builder/static/img/history/undo_disabled.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/gordondalos/lib/plugins/unyson.2.4.17.zip" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/gordondalos/tgm/.editorconfig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/shortcodes/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/gordondalos/tgm/.scrutinizer.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/gordondalos/tgm/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/gordondalos/tgm/CHANGELOG.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/CONTRIBUTING.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/gordondalos/tgm/CONTRIBUTING.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/core/Fw.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/gordondalos/tgm/LICENSE.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/core/components/extensions/manager/includes/parsedown/LICENSE.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/static/libs/unycon/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/core/components/extensions/manager/includes/parsedown/Parsedown.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/forms/includes/option-types/form-builder/items/recaptcha/includes/ReCaptcha/RequestMethod/Post.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/builder/includes/option-types/builder/includes/templates/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/includes/option-types/icon/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/static/libs/unycon/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/gordondalos/tgm/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/forms/includes/option-types/form-builder/items/recaptcha/includes/ReCaptcha/ReCaptcha.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/forms/includes/option-types/form-builder/items/recaptcha/includes/ReCaptcha/RequestMethod.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/forms/includes/option-types/form-builder/items/recaptcha/includes/ReCaptcha/RequestParameters.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/forms/includes/option-types/form-builder/items/recaptcha/includes/ReCaptcha/Response.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/forms/includes/option-types/form-builder/items/recaptcha/includes/ReCaptcha/RequestMethod/Socket.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/forms/includes/option-types/form-builder/items/recaptcha/includes/ReCaptcha/RequestMethod/SocketPost.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/static/libs/uri/URI.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/static/libs/unycon/fonts/Unycon.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/includes/option-types/addable-popup/static/js/addable-popup.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/update/static/css/admin-update-page.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/includes/option-types/multi-upload/static/css/any-files.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/includes/option-types/upload/static/css/any-files.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/includes/option-types/multi-upload/static/js/any-files.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/includes/option-types/upload/static/js/any-files.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/includes/option-types/multi-upload/views/any-files.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/includes/option-types/upload/views/any-files.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/core/components/extensions/manager/available-extensions.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/static/libs/backbone-relational/backbone-relational.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/static/js/backend-customizer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/views/backend-option-design-customizer.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/views/backend-option-design-default.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/views/backend-option-design-taxonomy.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/static/css/backend-options.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/static/js/backend-options.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/views/backend-settings-form.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/includes/option-types/icon/static/css/backend.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/includes/option-types/icon/static/js/backend.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/core/components/backend.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/includes/option-types/date-picker/static/js/locales/bootstrap-datepicker.ar.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/includes/option-types/date-picker/static/js/locales/bootstrap-datepicker.az.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/includes/option-types/date-picker/static/js/locales/bootstrap-datepicker.bg.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/includes/option-types/date-picker/static/js/locales/bootstrap-datepicker.ca.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/includes/option-types/date-picker/static/js/locales/bootstrap-datepicker.cs.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/includes/option-types/date-picker/static/js/locales/bootstrap-datepicker.cy.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/includes/option-types/date-picker/static/js/locales/bootstrap-datepicker.da.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/includes/option-types/date-picker/static/js/locales/bootstrap-datepicker.de.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/includes/option-types/date-picker/static/js/locales/bootstrap-datepicker.el.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/includes/option-types/date-picker/static/js/locales/bootstrap-datepicker.es.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/includes/option-types/date-picker/static/js/locales/bootstrap-datepicker.et.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/includes/option-types/date-picker/static/js/locales/bootstrap-datepicker.fa.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/includes/option-types/date-picker/static/js/locales/bootstrap-datepicker.fi.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/includes/option-types/date-picker/static/js/locales/bootstrap-datepicker.fr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/includes/option-types/date-picker/static/js/locales/bootstrap-datepicker.gl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/includes/option-types/date-picker/static/js/locales/bootstrap-datepicker.he.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/includes/option-types/date-picker/static/js/locales/bootstrap-datepicker.hr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/includes/option-types/date-picker/static/js/locales/bootstrap-datepicker.hu.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/includes/option-types/date-picker/static/js/locales/bootstrap-datepicker.id.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/includes/option-types/date-picker/static/js/locales/bootstrap-datepicker.is.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/includes/option-types/date-picker/static/js/locales/bootstrap-datepicker.it.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/includes/option-types/date-picker/static/js/locales/bootstrap-datepicker.ja.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/includes/option-types/date-picker/static/js/bootstrap-datepicker.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/includes/option-types/date-picker/static/js/locales/bootstrap-datepicker.ka.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/includes/option-types/date-picker/static/js/locales/bootstrap-datepicker.kk.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/includes/option-types/date-picker/static/js/locales/bootstrap-datepicker.kr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/includes/option-types/date-picker/static/js/locales/bootstrap-datepicker.lt.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/includes/option-types/date-picker/static/js/locales/bootstrap-datepicker.lv.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/includes/option-types/date-picker/static/js/locales/bootstrap-datepicker.mk.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/includes/option-types/date-picker/static/js/locales/bootstrap-datepicker.ms.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/includes/option-types/date-picker/static/js/locales/bootstrap-datepicker.nb.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/includes/option-types/date-picker/static/js/locales/bootstrap-datepicker.nl-BE.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/includes/option-types/date-picker/static/js/locales/bootstrap-datepicker.nl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/includes/option-types/date-picker/static/js/locales/bootstrap-datepicker.no.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/includes/option-types/date-picker/static/js/locales/bootstrap-datepicker.pl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/includes/option-types/date-picker/static/js/locales/bootstrap-datepicker.pt-BR.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/includes/option-types/date-picker/static/js/locales/bootstrap-datepicker.pt.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/includes/option-types/date-picker/static/js/locales/bootstrap-datepicker.ro.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/includes/option-types/date-picker/static/js/locales/bootstrap-datepicker.rs-latin.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/includes/option-types/date-picker/static/js/locales/bootstrap-datepicker.rs.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/includes/option-types/date-picker/static/js/locales/bootstrap-datepicker.ru.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/includes/option-types/date-picker/static/js/locales/bootstrap-datepicker.sk.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/includes/option-types/date-picker/static/js/locales/bootstrap-datepicker.sl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/includes/option-types/date-picker/static/js/locales/bootstrap-datepicker.sq.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/includes/option-types/date-picker/static/js/locales/bootstrap-datepicker.sv.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/includes/option-types/date-picker/static/js/locales/bootstrap-datepicker.sw.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/includes/option-types/date-picker/static/js/locales/bootstrap-datepicker.th.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/includes/option-types/date-picker/static/js/locales/bootstrap-datepicker.tr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/includes/option-types/date-picker/static/js/locales/bootstrap-datepicker.ua.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/includes/option-types/date-picker/static/js/locales/bootstrap-datepicker.vi.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/includes/option-types/date-picker/static/js/locales/bootstrap-datepicker.zh-TW.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/includes/option-types/date-picker/static/js/locales/bootstrap-datepicker.zh.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/shortcodes/shortcodes/calendar/static/libs/bootstrap3/css/bootstrap-grid.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/bootstrap-helpers.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/shortcodes/shortcodes/calendar/static/libs/bootstrap3/js/bootstrap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/shortcodes/shortcodes/calendar/static/libs/bootstrap3/js/bootstrap.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/bootstrap.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/media/extensions/population-method/extensions/population-method-custom/includes/bootstrap.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/builder/includes/option-types/builder/static/css/builder.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/builder/includes/option-types/builder/static/js/builder.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/builder/includes/option-types/builder/builder.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/media/extensions/slider/extensions/bx-slider/views/bx-slider.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/media/extensions/slider/extensions/bx-slider/static/js/bxslider.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/shortcodes/shortcodes/calendar/static/css/calendar.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/shortcodes/shortcodes/calendar/static/js/calendar.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/media/extensions/slider/extensions/bx-slider/options/categories.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/shortcodes/shortcodes/table/includes/fw-option-type-table/views/cell-head-template.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/shortcodes/shortcodes/table/includes/fw-option-type-table/views/cell-worksheet-template.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/static/libs/unycon/changelog.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/includes/customizer/class--fw-customizer-control-option-wrapper.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/includes/customizer/class--fw-customizer-setting-option.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/forms/extensions/contact-forms/includes/helper/class--fw-ext-contact-form-db-data.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/update/includes/classes/class--fw-ext-update-extensions-list-table.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/update/includes/classes/class--fw-ext-update-extensions-upgrader-skin.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/update/includes/classes/class--fw-ext-update-framework-upgrader-skin.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/update/includes/classes/class--fw-ext-update-theme-upgrader-skin.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/core/components/extensions/manager/includes/class--fw-extensions-delete-upgrader-skin.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/core/components/extensions/manager/includes/class--fw-extensions-install-upgrader-skin.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/core/components/extensions/manager/class--fw-extensions-manager.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/helpers/class-fw-access-key.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/helpers/class-fw-cache.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/includes/container-types/box/class-fw-container-type-box.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/includes/container-types/popup/class-fw-container-type-popup.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/includes/container-types/tab/class-fw-container-type-tab.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/includes/container-types/class-fw-container-type-undefined.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/core/extends/class-fw-container-type.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/helpers/class-fw-dumper.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/shortcodes/shortcodes/column/includes/template-component/class-fw-ext-builder-templates-component-column.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/builder/includes/option-types/builder/includes/templates/components/full/class-fw-ext-builder-templates-component-full.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/shortcodes/shortcodes/section/includes/template-component/class-fw-ext-builder-templates-component-section.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/builder/includes/option-types/builder/includes/templates/class-fw-ext-builder-templates-component.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/builder/includes/option-types/builder/includes/templates/class-fw-ext-builder-templates.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/mailer/includes/classes/class-fw-ext-mailer-email.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/mailer/includes/send-methods/class-fw-ext-mailer-send-method-smtp.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/mailer/includes/send-methods/class-fw-ext-mailer-send-method-wpmail.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/mailer/includes/classes/class-fw-ext-mailer-send-method.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/shortcodes/includes/coder/class-fw-ext-shortcodes-attr-coder-json.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/shortcodes/includes/coder/class-fw-ext-shortcodes-attr-coder-post-meta.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/update/includes/extends/class-fw-ext-update-service.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/blog/class-fw-extension-blog.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/builder/class-fw-extension-builder.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/forms/extensions/contact-forms/class-fw-extension-contact-forms.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/core/components/extensions/class-fw-extension-default.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/forms/includes/extends/class-fw-extension-forms-form.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/forms/class-fw-extension-forms.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/update/extensions/github-update/class-fw-extension-github-update.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/mailer/class-fw-extension-mailer.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/media/extensions/population-method/extensions/population-method-categories/class-fw-extension-population-method-categories.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/media/extensions/population-method/extensions/population-method-custom/class-fw-extension-population-method-custom.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/media/extensions/population-method/extensions/population-method-posts/class-fw-extension-population-method-posts.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/media/extensions/population-method/extensions/population-method-tags/class-fw-extension-population-method-tags.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/media/extensions/population-method/class-fw-extension-population-method.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/shortcodes/class-fw-extension-shortcodes.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/media/extensions/slider/includes/default/class-fw-extension-slider-default.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/media/extensions/slider/class-fw-extension-slider.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/update/class-fw-extension-update.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/core/extends/class-fw-extension.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/helpers/class-fw-flash-messages.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/helpers/class-fw-form.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/core/class-fw-manifest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/includes/option-types/addable-box/class-fw-option-type-addable-box.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/includes/option-types/addable-option/class-fw-option-type-addable-option.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/includes/option-types/addable-popup/class-fw-option-type-addable-popup.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/includes/option-types/background-image/class-fw-option-type-background-image.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/builder/includes/option-types/builder/extends/class-fw-option-type-builder-item.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/builder/includes/option-types/builder/extends/class-fw-option-type-builder.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/includes/option-types/color-picker/class-fw-option-type-color-picker.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/includes/option-types/datetime-picker/class-fw-option-type-datetime-picker.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/includes/option-types/datetime-range/class-fw-option-type-datetime-range.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/forms/includes/option-types/form-builder/items/checkboxes/class-fw-option-type-form-builder-item-checkboxes.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/forms/includes/option-types/form-builder/items/email/class-fw-option-type-form-builder-item-email.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/forms/includes/option-types/form-builder/items/form-header-title/class-fw-option-type-form-builder-item-form-header-title.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/forms/includes/option-types/form-builder/items/number/class-fw-option-type-form-builder-item-number.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/forms/includes/option-types/form-builder/items/radio/class-fw-option-type-form-builder-item-radio.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/forms/includes/option-types/form-builder/items/recaptcha/class-fw-option-type-form-builder-item-recaptcha.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/forms/includes/option-types/form-builder/items/select/class-fw-option-type-form-builder-item-select.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/forms/includes/option-types/form-builder/items/text/class-fw-option-type-form-builder-item-text.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/forms/includes/option-types/form-builder/items/textarea/class-fw-option-type-form-builder-item-textarea.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/forms/includes/option-types/form-builder/items/website/class-fw-option-type-form-builder-item-website.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/forms/includes/option-types/form-builder/extends/class-fw-option-type-form-builder-item.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/forms/includes/option-types/form-builder/class-fw-option-type-form-builder.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/includes/option-types/gradient/class-fw-option-type-gradient.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/includes/option-types/icon/class-fw-option-type-icon.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/includes/option-types/image-picker/class-fw-option-type-image-picker.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/mailer/includes/option-type-mailer/class-fw-option-type-mailer.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/includes/option-types/map/class-fw-option-type-map.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/includes/option-types/multi-picker/class-fw-option-type-multi-picker.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/includes/option-types/multi-select/class-fw-option-type-multi-select.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/includes/option-types/multi-upload/class-fw-option-type-multi-upload.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/includes/option-types/multi/class-fw-option-type-multi.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/includes/option-types/oembed/class-fw-option-type-oembed.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/includes/option-types/popup/class-fw-option-type-popup.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/includes/option-types/radio-text/class-fw-option-type-radio-text.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/includes/option-types/range-slider/class-fw-option-type-range-slider.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/forms/includes/option-types/form-builder/items/recaptcha/includes/option-type-recaptcha/class-fw-option-type-recaptcha.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/includes/option-types/rgba-color-picker/class-fw-option-type-rgba-color-picker.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/includes/option-types/slider/class-fw-option-type-short-slider.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/includes/option-types/slider/class-fw-option-type-slider.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/media/extensions/population-method/extensions/population-method-custom/includes/slides/class-fw-option-type-slides.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/includes/option-types/switch/class-fw-option-type-switch.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/shortcodes/shortcodes/table/includes/fw-option-type-table/class-fw-option-type-table.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/shortcodes/shortcodes/table/includes/fw-option-type-textarea-cell/class-fw-option-type-textarea-cell.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/includes/option-types/typography-v2/class-fw-option-type-typography-v2.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/includes/option-types/typography/class-fw-option-type-typography.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/includes/option-types/class-fw-option-type-undefined.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/includes/option-types/upload/class-fw-option-type-upload.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/includes/option-types/date-picker/class-fw-option-type-wp-date-picker.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/includes/option-types/wp-editor/class-fw-option-type-wp-editor.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/core/extends/class-fw-option-type.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/helpers/class-fw-request.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/helpers/class-fw-resize.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/helpers/class-fw-session.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/shortcodes/shortcodes/calendar/class-fw-shortcode-calendar.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/shortcodes/shortcodes/column/class-fw-shortcode-column.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/forms/extensions/contact-forms/shortcodes/contact-form/class-fw-shortcode-contact-form.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/shortcodes/shortcodes/map/class-fw-shortcode-map.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/shortcodes/shortcodes/row/class-fw-shortcode-row.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/shortcodes/shortcodes/section/class-fw-shortcode-section.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/media/extensions/slider/shortcodes/slider/class-fw-shortcode-slider.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/shortcodes/shortcodes/table/class-fw-shortcode-table.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/shortcodes/shortcodes/widget-area/class-fw-shortcode-widget-area.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/shortcodes/includes/class-fw-shortcode.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/shortcodes/includes/class-fw-shortcodes-loader.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/media/extensions/slider/includes/default/base/class-fw-slider.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/helpers/type/class-fw-type-register.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/helpers/type/class-fw-type.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/helpers/class-fw-wp-filesystem.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/helpers/class-fw-wp-list-table.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/helpers/class-fw-wp-meta.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/helpers/class-fw-wp-option.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/mailer/includes/class-mailer-sender.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/shortcodes/shortcodes/column/includes/page-builder-column-item/class-page-builder-column-item.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/forms/extensions/contact-forms/shortcodes/contact-form/includes/item/class-page-builder-contact-form-item.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/shortcodes/shortcodes/row/includes/page-builder-row-item/class-page-builder-row-item.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/shortcodes/shortcodes/section/includes/page-builder-section-item/class-page-builder-section-item.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/gordondalos/tgm/class-tgm-plugin-activation.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/gordondalos/tgm/composer.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/builder/config.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/forms/config.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/forms/extensions/contact-forms/shortcodes/contact-form/config.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/media/extensions/slider/extensions/bx-slider/config.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/media/extensions/slider/extensions/nivo-slider/config.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/media/extensions/slider/extensions/owl-carousel/config.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/media/extensions/slider/shortcodes/slider/config.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/shortcodes/shortcodes/accordion/config.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/shortcodes/shortcodes/button/config.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/shortcodes/shortcodes/calendar/config.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/shortcodes/shortcodes/call-to-action/config.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/shortcodes/shortcodes/divider/config.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/shortcodes/shortcodes/icon/config.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/shortcodes/shortcodes/icon-box/config.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/shortcodes/shortcodes/map/config.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/shortcodes/shortcodes/media-image/config.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/shortcodes/shortcodes/media-video/config.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/shortcodes/shortcodes/notification/config.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/shortcodes/shortcodes/section/config.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/shortcodes/shortcodes/special-heading/config.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/shortcodes/shortcodes/table/config.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/shortcodes/shortcodes/tabs/config.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/shortcodes/shortcodes/team-member/config.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/shortcodes/shortcodes/testimonials/config.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/shortcodes/shortcodes/text-block/config.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/shortcodes/shortcodes/widget-area/config.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/update/config.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/media/extensions/slider/extensions/bx-slider/options/custom.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/helpers/database.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/includes/option-types/date-picker/static/css/datepicker.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/includes/option-types/date-picker/static/css/datepicker3.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/shortcodes/shortcodes/calendar/views/day.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/shortcodes/shortcodes/table/includes/fw-option-type-table/static/css/default-styles.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/core/components/extensions/manager/views/delete-form.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/static/libs/unycon/demo-files/demo.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/static/libs/unycon/demo.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/static/libs/unycon/demo-files/demo.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/forms/extensions/contact-forms/views/email.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/shortcodes/shortcodes/calendar/views/events-list.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/gordondalos/tgm/example.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/shortcodes/shortcodes/table/includes/fw-option-type-table/static/css/extended-styles.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/core/components/extensions/manager/views/extension-page-header.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/core/components/extensions/manager/static/extension-page.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/core/components/extensions/manager/static/extension-page.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/core/components/extensions/manager/views/extension.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/core/components/extensions/manager/static/extensions-page.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/core/components/extensions/manager/static/extensions-page.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/core/components/extensions/manager/views/extensions-page.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/core/components/extensions.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/static/libs/font-awesome/css/font-awesome.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/static/libs/font-awesome/css/font-awesome.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/static/libs/font-awesome/fonts/fontawesome-webfont.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/static/libs/font-awesome/fonts/fontawesome-webfont.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/forms/includes/option-types/form-builder/items/form-builder-items.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/forms/extensions/contact-forms/views/form.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/builder/static/css/frontend-grid.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/forms/includes/option-types/form-builder/items/recaptcha/static/js/frontend-recaptcha.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/forms/static/css/frontend.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/builder/includes/option-types/builder/static/css/fullscreen.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/builder/includes/option-types/builder/static/js/fullscreen.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/builder/includes/option-types/builder/includes/fullscreen.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/includes/term-meta/function_fw_term_meta_setup_blog.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/static/js/fw-events.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/static/js/fw-form-helpers.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/helpers/fw-google-fonts.json.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/static/css/fw.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/static/js/fw.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/helpers/general.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/gordondalos/css/gordondalos.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/gordondalos/tgm/gordondalos.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/builder/includes/option-types/builder/static/css/helpers.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/builder/includes/option-types/builder/static/js/helpers.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/forms/includes/option-types/form-builder/static/js/helpers.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/builder/helpers.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/forms/extensions/contact-forms/helpers.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/mailer/helpers.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/shortcodes/helpers.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/builder/includes/option-types/builder/static/css/history.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/builder/includes/option-types/builder/static/js/history.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/forms/hooks.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/mailer/hooks.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/includes/hooks.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/core/components/extensions/manager/static/unyson-font-icon/fonts/icomoon.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/static/js/ie-fixes.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/includes/option-types/image-picker/static/js/image-picker/image-picker.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/includes/option-types/image-picker/static/js/image-picker/image-picker.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/includes/option-types/multi-upload/static/css/images-only.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/includes/option-types/upload/static/css/images-only.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/includes/option-types/multi-upload/static/js/images-only.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/includes/option-types/upload/static/js/images-only.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/includes/option-types/multi-upload/views/images-only.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/includes/option-types/upload/views/images-only.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/includes/option-types/image-picker/static/js/image-picker/imagesloaded.pkg.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/forms/includes/option-types/form-builder/items/recaptcha/includes/includes.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/core/components/extensions/manager/static/img/thumbnails/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/static/libs/unycon/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/languages/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/builder/includes/option-types/builder/includes/templates/init.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/builder/includes/option-types/builder/includes/templates/components/full/init.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/shortcodes/shortcodes/column/includes/template-component/init.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/shortcodes/shortcodes/section/includes/template-component/init.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/includes/container-types/init.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/includes/option-types/init.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/core/components/extensions/manager/views/install-form.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/shortcodes/includes/coder/interface-fw-ext-shortcodes-attr-coder.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/core/extends/interface-fw-option-handler.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/includes/option-types/range-slider/static/libs/ion-range-slider/ion.rangeSlider.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/includes/option-types/slider/static/libs/ion-range-slider/ion.rangeSlider.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/includes/option-types/range-slider/static/libs/ion-range-slider/ion.rangeSlider.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/includes/option-types/slider/static/libs/ion-range-slider/ion.rangeSlider.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/forms/includes/option-types/form-builder/views/items.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/includes/option-types/switch/static/adaptive-switch/jquery.adaptive-switch.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/media/extensions/slider/extensions/bx-slider/static/css/jquery.bxslider.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/shortcodes/shortcodes/testimonials/static/js/jquery.carouFredSel-6.2.1-packed.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/includes/option-types/datetime-picker/static/css/jquery.datetimepicker.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/includes/option-types/datetime-picker/static/js/jquery.datetimepicker.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/media/extensions/slider/extensions/bx-slider/static/js/jquery.easing.1.3.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/media/extensions/slider/extensions/bx-slider/static/js/jquery.fitvids.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/shortcodes/shortcodes/section/static/css/jquery.fs.wallpaper.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/shortcodes/shortcodes/section/static/js/jquery.fs.wallpaper.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/shortcodes/shortcodes/section/static/js/jquery.fs.wallpaper.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/static/libs/jscrollpane/jquery.jscrollpane.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/static/libs/jscrollpane/jquery.jscrollpane.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/static/libs/mousewheel/jquery.mousewheel.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/media/extensions/slider/extensions/nivo-slider/static/js/jquery.nivo.slider.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/static/libs/qtip/css/jquery.qtip.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/static/libs/qtip/jquery.qtip.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/static/libs/qtip/css/jquery.qtip.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/static/libs/qtip/jquery.qtip.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/shortcodes/shortcodes/calendar/static/libs/jstimezonedetect/jstz.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/shortcodes/shortcodes/calendar/static/libs/jstimezonedetect/jstz.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/static/img/logo.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/manifest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/blog/manifest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/builder/manifest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/forms/manifest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/forms/extensions/contact-forms/manifest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/mailer/manifest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/media/manifest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/media/extensions/population-method/manifest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/media/extensions/population-method/extensions/population-method-categories/manifest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/media/extensions/population-method/extensions/population-method-custom/manifest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/media/extensions/population-method/extensions/population-method-posts/manifest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/media/extensions/population-method/extensions/population-method-tags/manifest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/media/extensions/slider/manifest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/media/extensions/slider/extensions/bx-slider/manifest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/media/extensions/slider/extensions/nivo-slider/manifest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/media/extensions/slider/extensions/owl-carousel/manifest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/shortcodes/manifest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/update/manifest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/update/extensions/github-update/manifest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/gordondalos/css/media.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/helpers/meta.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/includes/option-types/multi-upload/static/css/modal.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/includes/option-types/upload/static/css/modal.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/static/libs/moment/moment.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/shortcodes/shortcodes/calendar/views/month-day.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/shortcodes/shortcodes/calendar/views/month.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/includes/option-types/multi-picker/static/css/multi-picker.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/includes/option-types/multi-picker/static/js/multi-picker.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/media/extensions/slider/extensions/nivo-slider/static/css/nivo-slider.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/media/extensions/slider/extensions/nivo-slider/views/nivo-slider.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/includes/option-types/oembed/static/js/oembed.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/static/css/option-types.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/static/js/option-types.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/forms/includes/option-types/option-types.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/forms/extensions/contact-forms/shortcodes/contact-form/options.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/media/extensions/slider/extensions/bx-slider/options/options.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/media/extensions/slider/shortcodes/slider/options.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/shortcodes/shortcodes/accordion/options.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/shortcodes/shortcodes/button/options.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/shortcodes/shortcodes/calendar/options.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/shortcodes/shortcodes/call-to-action/options.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/shortcodes/shortcodes/divider/options.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/shortcodes/shortcodes/icon/options.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/shortcodes/shortcodes/icon-box/options.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/shortcodes/shortcodes/map/options.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/shortcodes/shortcodes/media-image/options.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/shortcodes/shortcodes/media-video/options.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/shortcodes/shortcodes/notification/options.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/shortcodes/shortcodes/section/options.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/shortcodes/shortcodes/special-heading/options.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/shortcodes/shortcodes/table/options.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/shortcodes/shortcodes/tabs/options.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/shortcodes/shortcodes/team-member/options.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/shortcodes/shortcodes/testimonials/options.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/shortcodes/shortcodes/text-block/options.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/shortcodes/shortcodes/widget-area/options.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/gordondalos/framework-customizations/extensions/shortcodes/shortcodes/section/options.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/media/extensions/slider/extensions/owl-carousel/views/owl-carousel.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/media/extensions/slider/extensions/owl-carousel/static/css/owl.carousel.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/media/extensions/slider/extensions/owl-carousel/static/js/owl.carousel.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/media/extensions/slider/extensions/owl-carousel/static/css/owl.theme.default.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/gordondalos/tgm/phpcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/plugin-check-info.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/media/extensions/population-method/includes/extends/population-method-interface.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/media/extensions/slider/static/js/population-method.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/includes/option-types/popup/static/js/popup.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/media/extensions/slider/posts.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/shortcodes/shortcodes/table/views/pricing.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/readme.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/includes/option-types/datetime-picker/static/js/script.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/includes/option-types/datetime-range/static/js/script.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/builder/includes/option-types/builder/includes/templates/components/full/scripts.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/builder/includes/option-types/builder/includes/templates/static/scripts.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/forms/extensions/contact-forms/shortcodes/contact-form/includes/item/static/js/scripts.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/forms/includes/option-types/form-builder/items/checkboxes/static/js/scripts.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/forms/includes/option-types/form-builder/items/email/static/js/scripts.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/forms/includes/option-types/form-builder/items/form-header-title/static/js/scripts.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/forms/includes/option-types/form-builder/items/number/static/js/scripts.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/forms/includes/option-types/form-builder/items/radio/static/js/scripts.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/forms/includes/option-types/form-builder/items/recaptcha/static/js/scripts.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/forms/includes/option-types/form-builder/items/select/static/js/scripts.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/forms/includes/option-types/form-builder/items/text/static/js/scripts.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/forms/includes/option-types/form-builder/items/textarea/static/js/scripts.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/forms/includes/option-types/form-builder/items/website/static/js/scripts.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/mailer/includes/option-type-mailer/static/js/scripts.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/shortcodes/shortcodes/accordion/static/js/scripts.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/shortcodes/shortcodes/calendar/static/js/scripts.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/shortcodes/shortcodes/column/includes/page-builder-column-item/static/js/scripts.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/shortcodes/shortcodes/column/includes/template-component/scripts.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/shortcodes/shortcodes/map/static/js/scripts.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/shortcodes/shortcodes/section/includes/page-builder-section-item/static/js/scripts.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/shortcodes/shortcodes/section/includes/template-component/scripts.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/shortcodes/shortcodes/section/static/js/scripts.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/shortcodes/shortcodes/table/includes/fw-option-type-table/static/js/scripts.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/shortcodes/shortcodes/table/includes/fw-option-type-textarea-cell/static/js/scripts.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/shortcodes/shortcodes/tabs/static/js/scripts.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/includes/container-types/popup/scripts.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/includes/option-types/addable-box/static/js/scripts.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/includes/option-types/addable-option/static/js/scripts.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/includes/option-types/background-image/static/js/scripts.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/includes/option-types/color-picker/static/js/scripts.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/includes/option-types/date-picker/static/js/scripts.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/includes/option-types/gradient/static/js/scripts.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/includes/option-types/image-picker/static/js/scripts.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/includes/option-types/map/static/js/scripts.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/includes/option-types/multi-select/static/js/scripts.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/includes/option-types/radio-text/static/js/scripts.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/includes/option-types/range-slider/static/js/scripts.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/includes/option-types/rgba-color-picker/static/js/scripts.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/includes/option-types/slider/static/js/scripts.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/includes/option-types/switch/static/js/scripts.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/includes/option-types/typography-v2/static/js/scripts.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/includes/option-types/typography/static/js/scripts.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/includes/option-types/wp-editor/static/js/scripts.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/static/css/selectize.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/static/libs/selectize/selectize.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/static/libs/selectize/selectize.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/shortcodes/includes/shortcode-template-components.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/includes/container-types/simple.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/includes/option-types/simple.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/media/extensions/population-method/extensions/population-method-custom/includes/slides/static/css/slides.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/media/extensions/population-method/extensions/population-method-custom/includes/slides/static/js/slides.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/media/extensions/population-method/extensions/population-method-custom/includes/slides/views/slides.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/builder/static.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/forms/static.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/media/extensions/slider/extensions/nivo-slider/static.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/shortcodes/static.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/shortcodes/shortcodes/accordion/static.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/shortcodes/shortcodes/button/static.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/shortcodes/shortcodes/calendar/static.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/shortcodes/shortcodes/call-to-action/static.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/shortcodes/shortcodes/column/static.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/shortcodes/shortcodes/divider/static.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/shortcodes/shortcodes/icon/static.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/shortcodes/shortcodes/icon-box/static.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/shortcodes/shortcodes/map/static.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/shortcodes/shortcodes/notification/static.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/shortcodes/shortcodes/row/static.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/shortcodes/shortcodes/section/static.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/shortcodes/shortcodes/special-heading/static.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/shortcodes/shortcodes/table/static.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/shortcodes/shortcodes/tabs/static.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/shortcodes/shortcodes/team-member/static.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/shortcodes/shortcodes/testimonials/static.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/update/static.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/core/components/extensions/manager/static/unyson-font-icon/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/mailer/includes/option-type-mailer/static/css/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/media/extensions/slider/static/css/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/includes/option-types/datetime-picker/static/css/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/includes/option-types/map/static/css/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/includes/option-types/multi-select/static/css/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/builder/includes/option-types/builder/includes/templates/components/full/styles.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/builder/includes/option-types/builder/includes/templates/static/styles.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/forms/extensions/contact-forms/shortcodes/contact-form/includes/item/static/css/styles.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/forms/includes/option-types/form-builder/items/checkboxes/static/css/styles.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/forms/includes/option-types/form-builder/items/email/static/css/styles.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/forms/includes/option-types/form-builder/items/number/static/css/styles.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/forms/includes/option-types/form-builder/items/radio/static/css/styles.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/forms/includes/option-types/form-builder/items/recaptcha/includes/option-type-recaptcha/static/css/styles.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/forms/includes/option-types/form-builder/items/recaptcha/static/css/styles.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/forms/includes/option-types/form-builder/items/select/static/css/styles.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/forms/includes/option-types/form-builder/items/text/static/css/styles.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/forms/includes/option-types/form-builder/items/textarea/static/css/styles.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/forms/includes/option-types/form-builder/items/website/static/css/styles.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/forms/includes/option-types/form-builder/static/css/styles.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/media/extensions/slider/shortcodes/slider/static/css/styles.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/shortcodes/shortcodes/accordion/static/css/styles.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/shortcodes/shortcodes/button/static/css/styles.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/shortcodes/shortcodes/calendar/static/css/styles.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/shortcodes/shortcodes/call-to-action/static/css/styles.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/shortcodes/shortcodes/column/includes/page-builder-column-item/static/css/styles.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/shortcodes/shortcodes/column/includes/template-component/styles.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/shortcodes/shortcodes/divider/static/css/styles.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/shortcodes/shortcodes/icon-box/static/css/styles.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/shortcodes/shortcodes/icon/static/css/styles.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/shortcodes/shortcodes/map/static/css/styles.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/shortcodes/shortcodes/notification/static/css/styles.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/shortcodes/shortcodes/section/includes/page-builder-section-item/static/css/styles.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/shortcodes/shortcodes/section/includes/template-component/styles.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/shortcodes/shortcodes/section/static/css/styles.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/shortcodes/shortcodes/special-heading/static/css/styles.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/shortcodes/shortcodes/table/includes/fw-option-type-textarea-cell/static/css/styles.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/shortcodes/shortcodes/table/static/css/styles.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/shortcodes/shortcodes/tabs/static/css/styles.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/shortcodes/shortcodes/team-member/static/css/styles.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/shortcodes/shortcodes/testimonials/static/css/styles.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/includes/container-types/popup/styles.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/includes/option-types/addable-box/static/css/styles.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/includes/option-types/addable-option/static/css/styles.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/includes/option-types/addable-popup/static/css/styles.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/includes/option-types/background-image/static/css/styles.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/includes/option-types/color-picker/static/css/styles.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/includes/option-types/datetime-range/static/css/styles.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/includes/option-types/gradient/static/css/styles.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/includes/option-types/image-picker/static/css/styles.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/includes/option-types/multi/static/css/styles.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/includes/option-types/oembed/static/css/styles.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/includes/option-types/popup/static/css/styles.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/includes/option-types/radio-text/static/css/styles.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/includes/option-types/range-slider/static/css/styles.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/includes/option-types/rgba-color-picker/static/css/styles.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/includes/option-types/slider/static/css/styles.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/includes/option-types/switch/static/adaptive-switch/styles.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/includes/option-types/switch/static/css/styles.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/includes/option-types/typography-v2/static/css/styles.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/includes/option-types/typography/static/css/styles.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/includes/option-types/wp-editor/static/css/styles.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/builder/includes/sub-includes.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/forms/includes/sub-includes.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/forms/views/backend/submit-box-add.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/forms/views/backend/submit-box-edit.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/media/extensions/slider/views/backend/submit-box-edit.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/media/extensions/slider/views/backend/submit-box-error.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/media/extensions/slider/views/backend/submit-box-raw.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/forms/extensions/contact-forms/views/submit.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/shortcodes/shortcodes/table/views/tabular.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/media/extensions/population-method/extensions/population-method-custom/includes/slides/views/templates.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/gordondalos/tgm/languages/tgmpa.pot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/media/extensions/slider/extensions/nivo-slider/static/css/theme.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/core/components/theme.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/uninstall.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/static/libs/unycon/unycon.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/unyson.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/update/views/updates-list.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/builder/includes/option-types/builder/view.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/forms/includes/option-types/form-builder/items/checkboxes/view.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/forms/includes/option-types/form-builder/items/email/view.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/forms/includes/option-types/form-builder/items/form-header-title/view.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/forms/includes/option-types/form-builder/items/number/view.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/forms/includes/option-types/form-builder/items/radio/view.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/forms/includes/option-types/form-builder/items/recaptcha/view.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/forms/includes/option-types/form-builder/items/select/view.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/forms/includes/option-types/form-builder/items/text/view.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/forms/includes/option-types/form-builder/items/textarea/view.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/forms/includes/option-types/form-builder/items/website/view.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/shortcodes/shortcodes/accordion/views/view.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/shortcodes/shortcodes/button/views/view.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/shortcodes/shortcodes/calendar/views/view.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/shortcodes/shortcodes/call-to-action/views/view.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/shortcodes/shortcodes/column/views/view.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/shortcodes/shortcodes/divider/views/view.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/shortcodes/shortcodes/icon-box/views/view.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/shortcodes/shortcodes/icon/views/view.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/shortcodes/shortcodes/map/views/view.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/shortcodes/shortcodes/media-image/views/view.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/shortcodes/shortcodes/media-video/views/view.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/shortcodes/shortcodes/notification/views/view.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/shortcodes/shortcodes/row/views/view.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/shortcodes/shortcodes/section/views/view.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/shortcodes/shortcodes/special-heading/views/view.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/shortcodes/shortcodes/table/includes/fw-option-type-table/views/view.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/shortcodes/shortcodes/table/includes/fw-option-type-textarea-cell/views/view.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/shortcodes/shortcodes/tabs/views/view.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/shortcodes/shortcodes/team-member/views/view.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/shortcodes/shortcodes/testimonials/views/view.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/shortcodes/shortcodes/text-block/views/view.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/shortcodes/shortcodes/widget-area/views/view.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/includes/container-types/tab/view.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/includes/option-types/addable-box/view.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/includes/option-types/addable-option/view.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/includes/option-types/addable-popup/views/view.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/includes/option-types/background-image/view.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/includes/option-types/datetime-range/view.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/includes/option-types/gradient/view.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/includes/option-types/icon/view.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/includes/option-types/map/views/view.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/includes/option-types/oembed/view.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/includes/option-types/popup/views/view.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/includes/option-types/radio-text/view.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/includes/option-types/range-slider/view.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/includes/option-types/slider/view.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/includes/option-types/typography/view.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/includes/option-types/typography-v2/view.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/themes/gordondalos/framework-customizations/extensions/shortcodes/shortcodes/section/views/view.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/shortcodes/shortcodes/calendar/views/week-days.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/shortcodes/shortcodes/calendar/views/week.html" />
+      <change type="MOVED" beforePath="C:\xampp\htdocs\nwp\wp-content\themes\gordondalos\page-home-pade.php" afterPath="$PROJECT_DIR$/wp-content/themes/gordondalos/page-home-page.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/gordondalos/functions.php" afterPath="$PROJECT_DIR$/wp-content/themes/gordondalos/functions.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
+    <list id="8d6516c9-ca17-4722-89b5-2677916d31a3" name="Rejected commit: Default" comment="добавил свой шблон и добавил пейдж" />
     <ignored path="nwp.iws" />
     <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -21,8 +786,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="error.log" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/logs/error.log">
+      <file leaf-file-name="page-home-page.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/gordondalos/page-home-page.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-0.0">
+              <caret line="27" column="18" selection-start-line="27" selection-start-column="18" selection-end-line="27" selection-end-column="18" />
+              <folding>
+                <element signature="e#6#347#0#PHP" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="gordondalos.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/gordondalos/css/gordondalos.css">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
               <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -31,7 +808,68 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="view.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/gordondalos/framework-customizations/extensions/shortcodes/shortcodes/section/views/view.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.52490884">
+              <caret line="28" column="97" selection-start-line="28" selection-start-column="97" selection-end-line="28" selection-end-column="97" />
+              <folding>
+                <marker date="1453557566058" expanded="true" signature="1648:1698" placeholder="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="options.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/gordondalos/framework-customizations/extensions/shortcodes/shortcodes/section/options.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-15.75">
+              <caret line="33" column="40" selection-start-line="33" selection-start-column="40" selection-end-line="33" selection-end-column="40" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="functions.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/gordondalos/functions.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-6.2608695">
+              <caret line="120" column="23" selection-start-line="120" selection-start-column="23" selection-end-line="120" selection-end-column="23" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="media.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/gordondalos/css/media.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="27" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
     </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/wp-content/themes/gordondalos/template-parts/content-home.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/gordondalos/page-home-pade.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/gordondalos/page-home-page.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/gordondalos/tgm/gordondalos.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/gordondalos/css/gordondalos.css" />
+        <option value="$PROJECT_DIR$/wp-content/themes/gordondalos/functions.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/gordondalos/css/media.css" />
+        <option value="$PROJECT_DIR$/wp-content/themes/gordondalos/framework-customization/extensions/shortcodes/shortcodes/section/options.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/gordondalos/framework-customizations/extensions/shortcodes/shortcodes/section/options.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/gordondalos/framework-customizations/extensions/shortcodes/shortcodes/section/views/view.php" />
+      </list>
+    </option>
   </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" />
   <component name="JsGulpfileManager">
@@ -43,21 +881,21 @@
   <component name="PhpServers">
     <servers />
   </component>
-  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" interpreter_name="PHP" />
   <component name="ProjectFrameBounds">
     <option name="x" value="1272" />
     <option name="y" value="-8" />
     <option name="width" value="1936" />
     <option name="height" value="1066" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
     <OptionsSetting value="true" id="Remove" />
     <OptionsSetting value="true" id="Checkout" />
     <OptionsSetting value="true" id="Update" />
     <OptionsSetting value="true" id="Status" />
     <OptionsSetting value="true" id="Edit" />
-    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="2" id="Add" />
     <ConfirmationsSetting value="0" id="Remove" />
   </component>
   <component name="ProjectView">
@@ -73,8 +911,8 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -93,6 +931,404 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="nwp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="nwp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wp-content" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="nwp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="nwp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wp-content" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="themes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="nwp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="nwp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wp-content" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="themes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="gordondalos" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="nwp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="nwp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wp-content" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="themes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="gordondalos" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="framework-customizations" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="extensions" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="shortcodes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="shortcodes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="section" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="nwp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="nwp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wp-content" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="themes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="gordondalos" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="framework-customizations" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="extensions" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="shortcodes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="shortcodes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="section" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="nwp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="nwp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wp-content" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="plugins" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="nwp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="nwp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wp-content" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="plugins" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="unison" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="nwp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="nwp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wp-content" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="plugins" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="unison" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="framework" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="nwp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="nwp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wp-content" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="plugins" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="unison" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="framework" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="extensions" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="nwp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="nwp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wp-content" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="plugins" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="unison" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="framework" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="extensions" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="shortcodes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="nwp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="nwp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wp-content" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="plugins" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="unison" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="framework" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="extensions" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="shortcodes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="shortcodes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="nwp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="nwp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wp-content" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="plugins" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="unison" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="framework" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="extensions" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="shortcodes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="shortcodes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="section" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="nwp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="nwp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wp-content" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="plugins" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="unison" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="framework" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="extensions" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="shortcodes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="shortcodes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="section" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
     </panes>
@@ -104,6 +1340,19 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="FullScreen" value="false" />
     <property name="recentsLimit" value="5" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\nwp\wp-content\themes\gordondalos\framework-customization\extensions\shortcodes\shortcodes\section" />
+      <recent name="C:\xampp\htdocs\nwp\wp-content\themes\gordondalos\tgm" />
+      <recent name="C:\xampp\htdocs\nwp\wp-content\themes\gordondalos\template-parts" />
+      <recent name="C:\xampp\htdocs\nwp\wp-content\themes\gordondalos" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\nwp\wp-content\themes\gordondalos\tgm" />
+      <recent name="C:\xampp\htdocs\nwp\wp-content\themes\gordondalos" />
+      <recent name="C:\xampp\htdocs\nwp\wp-content\themes" />
+    </key>
   </component>
   <component name="RemoteSynchronizer">
     <option name="targetMappings">
@@ -173,6 +1422,13 @@
       <option name="number" value="Default" />
       <updated>1453545811096</updated>
     </task>
+    <task id="LOCAL-00001" summary="добавил свой шблон и добавил пейдж">
+      <created>1453548377578</created>
+      <option name="number" value="00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1453548377578</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -184,23 +1440,24 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.7368421" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25348338" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3022508" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Get Gist" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="CSS-X-Fire" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.45464724" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -214,16 +1471,141 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="добавил свой шблон и добавил пейдж" />
+    <option name="LAST_COMMIT_MESSAGE" value="добавил свой шблон и добавил пейдж" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/logs/error.log">
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/gordondalos/page-home-page.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="27" column="18" selection-start-line="27" selection-start-column="18" selection-end-line="27" selection-end-column="18" />
+          <folding>
+            <element signature="e#6#347#0#PHP" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/gordondalos/css/gordondalos.css">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/gordondalos/functions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/logs/error.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/gordondalos/template-parts/content-page.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/gordondalos/page.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.45929527">
+          <caret line="25" column="26" selection-start-line="25" selection-start-column="26" selection-end-line="25" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/gordondalos/template-parts/content-home.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-11.25">
+          <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/gordondalos/tgm/gordondalos.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.49210206">
+          <caret line="55" column="42" selection-start-line="55" selection-start-column="42" selection-end-line="55" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/gordondalos/page-home-page.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="27" column="18" selection-start-line="27" selection-start-column="18" selection-end-line="27" selection-end-column="18" />
+          <folding>
+            <element signature="e#6#347#0#PHP" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/gordondalos/functions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-6.2608695">
+          <caret line="120" column="23" selection-start-line="120" selection-start-column="23" selection-end-line="120" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/gordondalos/css/media.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="27" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/gordondalos/css/gordondalos.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/unison/framework/extensions/shortcodes/shortcodes/section/views/view.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.59052247">
+          <caret line="27" column="0" selection-start-line="27" selection-start-column="0" selection-end-line="31" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/gordondalos/framework-customizations/extensions/shortcodes/shortcodes/section/options.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-15.75">
+          <caret line="33" column="40" selection-start-line="33" selection-start-column="40" selection-end-line="33" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/gordondalos/framework-customizations/extensions/shortcodes/shortcodes/section/views/view.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.52490884">
+          <caret line="28" column="97" selection-start-line="28" selection-start-column="97" selection-end-line="28" selection-end-column="97" />
+          <folding>
+            <marker date="1453557566058" expanded="true" signature="1648:1698" placeholder="..." />
+          </folding>
         </state>
       </provider>
     </entry>
